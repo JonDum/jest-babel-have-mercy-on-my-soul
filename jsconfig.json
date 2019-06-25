@@ -1,0 +1,17 @@
+{
+	"experimentalDecorators": true,
+    "compilerOptions": {
+		"experimentalDecorators": true,
+        "target": "ES6"
+    },
+	"include": [
+		"api/lib/**/*.js",
+		"web/src/**/*.js",
+		"marketing-site/src/**/*.js",
+		"**/tests/**/*"
+	],
+    "exclude": [
+        "node_modules",
+        "**/node_modules/*"
+    ]
+}

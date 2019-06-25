@@ -1,0 +1,42 @@
+{
+  "name": "aviation-scheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@babel/runtime": "^7.4.5",
+    "awesome-debounce-promise": "^2.1.0",
+    "luxon": "^1.16.0",
+    "mobx": "^5.10.1",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-proposal-class-properties": "^7.4.4",
+    "@babel/plugin-proposal-decorators": "^7.4.4",
+    "@babel/plugin-proposal-export-default-from": "^7.2.0",
+    "@babel/plugin-proposal-function-bind": "^7.2.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.4.4",
+    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
+    "@babel/plugin-transform-runtime": "^7.4.4",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-flow": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/register": "^7.4.4",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-eslint": "^10.0.2",
+    "babel-jest": "^24.8.0",
+    "babel-plugin-react-html-attrs": "^2.1.0",
+    "bundle-loader": "^0.5.6",
+    "jest": "^24.8.0",
+    "jest-chain": "^1.1.2",
+    "jest-extended": "^0.11.1",
+    "jest-runner": "^24.8.0",
+    "regenerator-runtime": "^0.13.2",
+    "request-promise": "^4.2.4"
+  },
+  "author": "",
+  "license": "ISC"
+}

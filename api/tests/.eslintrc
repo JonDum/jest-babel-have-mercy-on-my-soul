@@ -1,0 +1,15 @@
+env:
+  node: true
+  mocha: true
+  jest: true
+
+globals:
+  __HOST__: true
+  db: true
+  account: true
+  request: true
+  crew: true
+  events: true
+  planes: true
+  users: true
+
