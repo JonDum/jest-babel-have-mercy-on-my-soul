@@ -52,7 +52,7 @@
 		"moment-timezone": "^0.5.25",
 		"nanoid": "^2.0.3",
 		"node-sortable": "^0.1.10",
-		"papaparse": "^5.0.0",
+		"papaparse": "^5.2.0",
 		"pino-pretty": "^3.1.0",
 		"postmark": "^2.2.6",
 		"request": "^2.88.0",
