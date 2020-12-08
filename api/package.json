@@ -29,7 +29,7 @@
 		"compression": "^1.7.4",
 		"csv": "^5.1.1",
 		"csvdata": "^1.7.0",
-		"fast-csv": "^3.0.1",
+		"fast-csv": "^4.3.6",
 		"fast-glob": "^3.0.0",
 		"fast-haversine": "^1.0.0",
 		"fastify": "^2.5.0",
